@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+ <item android:id="@+id/navigation_ebook"
+        android:title="Ebooks"
+        android:icon="@drawable/ic_ebook"/>
+
+ <item android:id="@+id/navigation_color"
+        android:title="Color"
+        android:icon="@drawable/ic_color"/>
+
+
+
+</menu>

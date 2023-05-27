@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Institute App</string>
+    <string name="college_name">IIITV-ICD</string>
+
+    <string name="address">  IIITV-ICD  Education Hub, Kevdi – Diu
+            Daman and Diu </string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college">Indian Institute of Information Technology Vadodara International Campus Diu (IIITV-ICD) is a satellite campus of Indian Institute of Information Technology Vadodara (IIIT Vadodara, an Institute of National Importance by an Act of Parliament) .
+        IIITV-ICD has been established at Education Hub, Kevdi – Diu under partnership with Government of Dadra and Nagar Haveli and Daman and Diu (UT Administration of DNH and DD ) with the approval of Board of Governors (BoG) wherein Ministry of Education (earlier MHRD) is a member. The graduates from this campus will be awarded degree by IIIT Vadodara.
+        The IIITV-ICD will be administered by Board of Governors, Finance Committee and Senate of IIIT Vadodara. The IIITV-ICD will admit its first batch of undergraduate students from Academic Year 2020-21. IIITV-ICD has been accommodated in the state of art campus of “Education Hub” at Diu</string>
+
+
+    <string name="about_computer">Computer science focuses on the development and testing of software and software systems. It involves working with mathematical models, data analysis and security, algorithms, and computational theory. Computer scientists define the computational principles that are the basis of all software.</string>
+
+    <string-array name="theme" >
+        <item>System Default</item>
+        <item>Dark </item>
+        <item>Light</item>
+
+    </string-array>
+
+
+</resources>
